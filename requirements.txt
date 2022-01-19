@@ -1,0 +1,7 @@
+pywin32==228
+opencv-contrib-python==4.4.0.42
+pynput==1.7.1
+numpy==1.16.0
+PyAutoGUI==0.9.50
+pygame==2.0.0.dev12
+mss==6.0.0
